@@ -1,0 +1,24 @@
+{
+  "name": "Mint Record - 리듬게임",
+  "short_name": "Mint Record",
+  "description": "모바일 리듬게임 - 녹음하고, 플레이하고, 공유하세요!",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#2c3e50",
+  "theme_color": "#3498db",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
